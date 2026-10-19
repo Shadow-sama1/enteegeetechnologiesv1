@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="490" viewBox="0 0 720 490">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0f3ff"/><stop offset="1" stop-color="#f2f7ff"/></linearGradient></defs>
+  <rect width="720" height="490" fill="url(#bg)"/><rect x="63" y="54" width="594" height="382" rx="17" fill="#fff" stroke="#d9e8f3"/>
+  <rect x="63" y="54" width="594" height="45" rx="17" fill="#f8fbfe"/><circle cx="88" cy="77" r="5" fill="#ff9c9c"/><circle cx="106" cy="77" r="5" fill="#ffd36b"/><circle cx="124" cy="77" r="5" fill="#6ed69b"/>
+  <rect x="91" y="126" width="538" height="190" rx="10" fill="#124184"/><path d="M368 157v84m-30-54h60m-82 102h104v-51a52 52 0 0 0-104 0v51Z" fill="none" stroke="#80d7ff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><text x="123" y="181" fill="#a7e6ff" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">THE GOOD SHEPHERD</text><text x="123" y="220" fill="white" font-family="Arial,sans-serif" font-size="24" font-weight="700">A place to belong.</text><rect x="123" y="239" width="116" height="27" rx="6" fill="#38bdf8"/>
+  <rect x="91" y="337" width="165" height="70" rx="8" fill="#e5f5fc"/><rect x="275" y="337" width="165" height="70" rx="8" fill="#e5f5fc"/><rect x="459" y="337" width="170" height="70" rx="8" fill="#e5f5fc"/>
+</svg>
