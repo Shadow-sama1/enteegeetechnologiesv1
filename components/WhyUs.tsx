@@ -13,9 +13,9 @@ export function WhyUs() {
     <section id="why-us" className="section section-anchor why-section">
       <div className="container why-layout">
         <div className="why-intro">
-          <p className="eyebrow"><span /> Why Enteegee</p>
+          <p className="eyebrow"><span /> Why Enteegee Technologies ?</p>
           <h2>A great website, without the <span>usual hassle</span></h2>
-          <p>We listen, keep things clear, and build a website that fits the way you work.</p>
+          <p>AI is not the answer if you have no idea what you're doing. At Enteegee Technologies we listen, keep things clear, and build a website that fits the way you work.</p>
           <a href="#contact" className="text-link">Let’s talk about your goals <Icon name="arrow" size={18} /></a>
         </div>
         <div className="benefit-list">

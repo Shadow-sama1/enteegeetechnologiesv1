@@ -6,4 +6,4 @@ export function getWhatsAppLink(message: string): string {
 }
 
 export const DEFAULT_WHATSAPP_MESSAGE =
-  "Hello Enteegee Technologies, I'd like to get my website today.";
+  "Hello Enteegee Technologies, I'd like to get my dream website today.";

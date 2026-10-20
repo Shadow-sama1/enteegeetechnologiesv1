@@ -18,7 +18,7 @@ export function Logo({ onClick }: { onClick?: MouseEventHandler<HTMLAnchorElemen
       {hasLogo ? (
         // Replace /public/logo.png with your final brand logo.
         <Image
-          src="/logo.png"
+          src="/ETlogo.png"
           alt="Enteegee Technologies"
           width={48}
           height={48}

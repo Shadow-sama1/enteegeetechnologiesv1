@@ -13,7 +13,7 @@ export function Process() {
       <div className="container">
         <div className="section-heading">
           <p className="eyebrow"><span /> Simple from start to finish</p>
-          <h2>Your website journey, <span>made easy</span></h2>
+          <h2>Our Dream Is Making <span>YOURS</span> A Reality</h2>
           <p>Clear communication, a thoughtful build, and support at every step.</p>
         </div>
         <ol className="process-grid">

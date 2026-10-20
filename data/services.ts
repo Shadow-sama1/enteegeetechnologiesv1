@@ -7,22 +7,22 @@ export type Service = {
 export const services: Service[] = [
   {
     title: "Business Websites",
-    description: "Professional websites that help small and growing businesses win more customers.",
+    description: "At Enteegee Technologies, we aid businesses by creating modern, responsive websites that attract more customers and generate leads.",
     icon: "store",
   },
   {
     title: "Company Websites",
-    description: "A credible, scalable online presence that tells your company story clearly.",
+    description: "Our corporate websites are built with security and scalability in mind, ensuring that your company presents a credible image to clients as well as possible investors.",
     icon: "building",
   },
   {
     title: "Portfolio Websites",
-    description: "Showcase your work, build your personal brand, and turn visitors into clients.",
+    description: "Ideal for freelancers and creatives overall seeking to attract clients, this helps showcase your individual skills, experience and achievements.",
     icon: "briefcase",
   },
   {
     title: "Church Websites",
-    description: "Share events, sermons, giving options, and everything your members need.",
+    description: "Our church websites help religious organizations connect with members, share messages effectively, and reach a wider audience online.",
     icon: "church",
   },
   {

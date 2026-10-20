@@ -20,7 +20,7 @@ export function Footer() {
         <div className="footer-column"><h2>Services</h2>{services.slice(0, 5).map((service) => <a href="#services" key={service.title}>{service.title}</a>)}</div>
         <div className="footer-column"><h2>Get in touch</h2><WhatsAppLink>WhatsApp us</WhatsAppLink><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a><span>{LOCATION}</span></div>
       </div>
-      <div className="footer-bottom"><div className="container"><span>© {new Date().getFullYear()} Enteegee Technologies. All rights reserved.</span><span>Thoughtfully built for the web.</span></div></div>
+      <div className="footer-bottom"><div className="container"><span>© {new Date().getFullYear()} Enteegee Technologies. All rights reserved.</span><span>Thoughtfully built for your comfort.</span></div></div>
     </footer>
   );
 }

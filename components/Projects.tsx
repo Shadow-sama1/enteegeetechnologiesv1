@@ -41,9 +41,9 @@ export function Projects() {
     >
       <div className="container">
         <div className="section-heading">
-          <p className="eyebrow"><span /> A look at what’s possible</p>
-          <h2>Good ideas deserve a <span>great website</span></h2>
-          <p>Explore a few concept projects. Have something in mind? Let’s make it yours.</p>
+          <p className="eyebrow"><span /> A look at what’s possible and what can be yours</p>
+          <h2>Good ideas deserve an <span>awesome avenue to thrive online</span></h2>
+          <p>Explore a few of our past projects. Have something in mind? Let’s make it yours.</p>
         </div>
         <div className="project-grid">
           {projects.map((project, index) => {
